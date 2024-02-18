@@ -5,7 +5,6 @@ void setup() {
   size(800, 500);
   plot = new Plot(10);
   plot.assignPositions();
-  
 }
 
 void draw() {
